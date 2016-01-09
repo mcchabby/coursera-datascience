@@ -1,2 +1,1 @@
-# coursera-datascience
-Courser Data Science Specialization
+# Courser Data Science Specialization
